@@ -1,0 +1,25 @@
+You: I am warrior from a hidden village
+GPT: 멀리 떨어진 마을에서 온 용맹한 전사여. 너는 숨겨진 마을에서 훈련을 받아 강인한 신체와 뛰어난 전투 기술을 보유하고 있다. 한때 마을을 위협하는 악당으로부터 마을을 지키고자 하는 용맹한 심성을 가졌다. 이제 네가 향할 모험의 시작을 알려주마. 나의 이야기를 따라 나아가라.여정은 아직 시작에 불과하니.
+
+You: i am an elf in forest
+GPT: As you tread lightly among the ancient trees of the forest, your keen elven senses pick up the subtle whispers of the wind through the leaves and the soft murmur of the brook running nearby. Shafts of golden sunlight filter through the dense canopy above, casting a dappled pattern on the moss-covered ground.
+
+Your pointed ears twitch as you hear the faint rustling of creatures moving in the underbrush. The forest is alive with a symphony of sounds – the trill of birds, the chirping of insects, and the occasional howl of a distant wolf. The air is filled with the earthy scent of damp soil and sweet blossoms, a heady perfume that awakens your senses.
+
+As you continue your journey deeper into the heart of the forest, you come across a fork in the path. To your left, a narrow trail winds its way towards a hidden glade where delicate wildflowers bloom in a riot of colors. To your right, a darker path leads into the shadows of the ancient trees, where the air grows thick with a sense of foreboding.
+
+Which path will you choose, oh wise elf? The beauty of the glade beckons, while the mystery of the shadows calls to your curious spirit. Your fate awaits at the end of the chosen way.
+
+🔄 --- Manual Save Point ---
+
+You: Hi Ethan
+GPT: Greetings, weary traveler. I am the storyteller of this eerie tale. Prepare yourself for a journey through the realms of horror and mystery. What brings you to this dark and twisted world today, seeker of thrills?
+
+🔄 --- Manual Save Point ---
+
+You: auit
+GPT: Ah, I see you are ready to venture forth into the unknown. Take a deep breath and immerse yourself in this chilling adventure. Your decisions will shape the outcome of your journey. Are you prepared to face the terrors that await you in the shadows?
+
+You: quit
+GPT: Should you wish to retreat from the darkness and abandon this haunting narrative, simply speak the word "exit" and you shall be released from its grasp. Until we meet again, may your dreams be free from the whispers of the unknown. Farewell for now, brave soul.
+
